@@ -12,16 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Lo Que Somos...
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+La Biblioteca de "la Puerta Abierta", es una extensión esencial del centro comunitario "La Puerta Abierta" sin fines de lucro, con el objetivo de brindar acceso a la literatura a la población del municipio de Santiago Atitlán y sus alrededores. El enfoque del centro comunitario y la biblioteca van de la mano para promover la educación creativa, significativa y de amor en Santiago Atitlán. Trabajamos con niños, jóvenes, adultos y ancianos. Utilizamos prácticas creativas de enseñanza para que nuestros estudiantes y maestros despierten su amor al aprendizaje y la exploración.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
