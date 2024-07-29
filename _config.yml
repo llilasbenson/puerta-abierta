@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Biblioteca La Puerta Abierta 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "La Biblioteca de "la Puerta Abierta", es una extensión esencial del centro comunitario "La Puerta Abierta" sin fines de lucro, con el objetivo de brindar acceso a la literatura a la población del municipio de Santiago Atitlán y sus alrededores."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: La Puerta Abierta
 
 ##########
 # COLLECTION SETTINGS
@@ -40,10 +40,10 @@ metadata: puerta_abierta_bib
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+# organization-name: "La Puerta Abierta"
+# organization-link: https://atitlanabierta.com/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-logo-nav: https://atitlanabierta.com/wp-content/uploads/2019/09/puertaabierta_logo_name_header_500px1.png
 
 ##########
 # ROBOTS EXCLUDE
